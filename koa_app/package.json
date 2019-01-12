@@ -1,0 +1,19 @@
+{
+  "name": "koa_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "2.0.0",
+    "koa-bodyparser": "3.2.0",
+    "koa-ejs": "^4.2.0",
+    "koa-json": "2.0.2",
+    "koa-router": "7.0.0"
+  }
+}
